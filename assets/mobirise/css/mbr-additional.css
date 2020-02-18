@@ -1167,14 +1167,6 @@ section.lazy-placeholder:after {
 .cid-rQNRbvstru .card-title {
   text-align: center;
 }
-.cid-rQNOcbPXVb {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rQNOcbPXVb .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-rbJFnEEfRn {
   padding-top: 15px;
   padding-bottom: 45px;
@@ -1195,10 +1187,39 @@ section.lazy-placeholder:after {
 .cid-rbJFnEEfRn .card-wrapper {
   height: 100%;
 }
+.cid-rQTflmyhis {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/obreznaja-doska-1440x960.jpg");
+}
+.cid-rQTflmyhis .title {
+  margin-bottom: 2rem;
+}
+.cid-rQTflmyhis .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rQTflmyhis a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rQTflmyhis a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rQTflmyhis textarea.form-control {
+  min-height: 188px;
+}
+.cid-rQNOcbPXVb {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rQNOcbPXVb .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rQNPE8DbBy {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-rQNPE8DbBy .mbr-text,
 .cid-rQNPE8DbBy blockquote {
